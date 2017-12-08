@@ -1,0 +1,7 @@
+.ensime_cache
+project/
+target/
+.ensime
+README.md
+ensime-langserver.log
+pc.stdout.log
